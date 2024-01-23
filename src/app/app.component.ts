@@ -15,6 +15,6 @@ import { Component } from "@angular/core";
   </div>
   `
 })
-export class AppComponent{
+export class AppComponent {
   pageTitle: string = 'Acme Product Management';
 }
